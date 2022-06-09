@@ -1,4 +1,4 @@
 #write python hello world code
 
-print("Hello World"*5)
+print("Hello World"*10)
 #write it for 10 times
