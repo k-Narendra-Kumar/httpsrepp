@@ -1,3 +1,4 @@
 #write python hello world code
 
 print("Hello World"*5)
+#write it for 10 times
