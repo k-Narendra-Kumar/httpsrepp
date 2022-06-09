@@ -3,3 +3,7 @@
 print("Hello World"*10)
 #write it for 10 times
 #also write code in clanguage
+
+#iclude<stdio.h>
+#include<conio.h>
+printf("Hello world\n");
