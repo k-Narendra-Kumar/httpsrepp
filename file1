@@ -1,1 +1,3 @@
 #write python hello world code
+
+print("Hello World"*5)
